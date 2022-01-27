@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "rhino3dm": "0.15.0-beta",
-    "three": "0.125.2"
+    "three": "0.137.0"
   }
 }
